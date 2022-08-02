@@ -1,0 +1,20 @@
+body{
+    
+    background-color:rgb(34,57,106);
+    color: white;
+}
+h2{
+    color: rgb(49,187,102);
+}
+
+a{
+    
+    color:rgb(240,35,77) ;
+}
+.header{
+    text-align: center;
+}
+.footer{
+    background-color: #11244d;
+    text-align: center;
+}
